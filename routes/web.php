@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/asd', function () {
-    return 'asd';
+    return 'كول خرا';
 });
