@@ -6,6 +6,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/asd', function () {
-    return 'كول خرا';
-});
